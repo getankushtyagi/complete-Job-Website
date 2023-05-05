@@ -1,0 +1,23 @@
+# Query: container
+
+8 results - 6 files
+
+src/App.js:
+  21:     <div className="contain">
+
+src/components/Navbar.js:
+  11:         <div className="contain">
+
+src/components/Signin.js:
+  31:         <div className="contain">
+  39:                 <div className="contain-fluid h-custom">
+
+src/components/Signup.js:
+  39:     <div className="contain">
+  41:         <div className="contain h-100">
+
+src/pages/About.js:
+  9:     <div className="contain">
+
+src/pages/Homepage.js:
+  9:    <div className="contain"> <br /> 
